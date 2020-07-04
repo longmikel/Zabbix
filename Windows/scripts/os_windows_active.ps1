@@ -20,9 +20,9 @@
 .OUTPUTS
   Output in JSON format for Zabbix
 .NOTES
-  Version:        1.0
-  Author:         p.kuznetsov@itmicus.ru
-  Creation Date:  07/05/2018
+  Version:        2.0
+  Author:         longhm1@matbao.com
+  Creation Date:  07/01/2020
   Purpose/Change: Initial script development
 
 .EXAMPLE
